@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaGithubSquare, FaInstagram} from 'react-icons/fa'
+import {FaGithubSquare, FaInstagram, FaLinkedin} from 'react-icons/fa'
 
 const Footer = () => {
   return (
@@ -7,6 +7,7 @@ const Footer = () => {
         <hr class="my-3 h-0.5 border-t-0 bg-neutral-100 dark:bg-white/10" />
         <div className='inline-flex text-gray-500 gap-4 text-3xl'>
           <a href="https://github.com/Avinash-Puthukulangara"><FaGithubSquare/></a>
+          <a href="https://www.linkedin.com/in/aviputhukulangara/"><FaLinkedin/></a>
           <a href="https://www.linkedin.com/in/aviputhukulangara/"><FaInstagram/></a>
         </div>
     </div>
