@@ -6,7 +6,7 @@ import prj3 from '../assets/prj3.png'
 
 const Project = () => {
   return (
-    <div className='py-6 max-w-[1200px] mx-auto'>
+    <div className='py-6 max-w-[1200px] mx-auto' id='projects'>
         <div className='mx-auto px-4 md:px-8'>
             <div className='mb-4 flex items-center justify-between hap-8'>
                 <div className='flex flex-col gap-4'>

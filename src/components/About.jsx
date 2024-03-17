@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className='py-10 text-white bg-[#232325] h-auto'>
+    <div className='py-10 text-white bg-[#232325] h-auto' id='about'>
       <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6
       gap-12 px-10 max-w-6xl mx-auto'>
         

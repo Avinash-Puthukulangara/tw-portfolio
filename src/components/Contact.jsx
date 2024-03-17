@@ -3,7 +3,7 @@ import eml from '../assets/email.png'
 
 const Contact = () => {
   return (
-    <div className='flex justify-center my-5 h-full sm:h-[70vh] items-center'>
+    <div className='flex justify-center my-5 h-full sm:h-[70vh] items-center' id='contact'>
         <div className='max-w-[1200px] mx-auto'>
             <div>
                 <div className='grid grid-cols-1 md:grid-cols-2'>
