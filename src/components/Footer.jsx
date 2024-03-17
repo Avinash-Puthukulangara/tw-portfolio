@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='inline-flex text-gray-500 gap-4 text-3xl'>
           <a href="https://github.com/Avinash-Puthukulangara"><FaGithubSquare/></a>
           <a href="https://www.linkedin.com/in/aviputhukulangara/"><FaLinkedin/></a>
-          <a href="https://www.linkedin.com/in/aviputhukulangara/"><FaInstagram/></a>
+          <a href="https://www.instagram.com/__._avi__.___nash/"><FaInstagram/></a>
         </div>
     </div>
   )
